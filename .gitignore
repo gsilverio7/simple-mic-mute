@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.usercache
+
+# Visual Studio
+.vs/
+
+# Dependencies
+packages/
+.nuget/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
